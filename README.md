@@ -6,11 +6,16 @@ A modern and user-friendly News App that delivers the latest headlines from vari
 
 # ✨ Features
 Fetches live news from trusted sources(API)
+
 Categorized news sections (e.g., World, Business, Technology, Sports)
+
 User-friendly UI with smooth navigation
+
 Search functionality for specific news topics
+
 Dark mode support (if applicable)
 
 # 🔧 Tech Stack
-Frontend: [HTML+CSS+JAVASRIPT/API]
+Frontend: [HTML+CSS+JAVASRIPT/API] 
+
 API: [News API]
